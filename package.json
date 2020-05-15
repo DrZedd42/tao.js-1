@@ -1,7 +1,7 @@
 {
-  "name": "dai-monorepo",
+  "name": "tao-monorepo",
   "version": "0.1.0",
-  "repository": "git@github.com:makerdao/dai.js.git",
+  "repository": "git@github.com:xHUBLiquidityBridge/tao.js.git",
   "license": "MIT",
   "private": true,
   "scripts": {
