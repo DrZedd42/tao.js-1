@@ -1,4 +1,4 @@
-# Dai.js SDK monorepo
+# Tao.js SDK monorepo
 
 [![Build Status][build]][build-url]
 [![Coverage Status][cover]][cover-url]
@@ -8,7 +8,7 @@ code on commit.
 
 ## Documentation
 
-Please view `README.md` for each individual package (e.g. [packages/dai](https://github.com/makerdao/dai.js/blob/dev/packages/dai/README.md)) and/or [docs.makerdao.com](https://docs.makerdao.com/dai.js).
+Please view `README.md` for each individual package (e.g. [packages/tao](https://github.com/makerdao/tao.js/blob/dev/packages/tao/README.md)) and/or [docs.makerdao.com](https://docs.makerdao.com/dai.js).
 
 ## Getting started
 
@@ -38,9 +38,9 @@ Run `yarn coverage` to generate a test coverage report.
 
 ### Creating a UMD build
 
-See [packages/dai/README.md](https://github.com/makerdao/dai.js/blob/dev/packages/dai/README.md#commands) for instructions.
+See [packages/tao/README.md](https://github.com/makerdao/tao.js/blob/dev/packages/tao/README.md#commands) for instructions.
 
-[build]: https://circleci.com/gh/makerdao/dai.js.svg?style=svg
-[build-url]: https://circleci.com/gh/makerdao/dai.js
-[cover]: https://codecov.io/gh/makerdao/dai.js/branch/dev/graph/badge.svg
-[cover-url]: https://codecov.io/gh/makerdao/dai.js
+[build]: https://circleci.com/gh/xHUBLiquidityBridge/tao.js
+[build-url]: https://circleci.com/gh/xHUBLiquidityBridge/tao.js
+[cover]: https://codecov.io/gh/xHUBLiquidityBridge/tao.js/branch/dev/graph/badge.svg
+[cover-url]: https://codecov.io/gh/xHUBLiquidityBridge/tao.js
